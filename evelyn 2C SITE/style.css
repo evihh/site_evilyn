@@ -1,3 +1,15 @@
-body{
- background-color: blue;   
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: rgb(185, 104, 117);
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.imagemalura{
+    width: 10%;
 }
